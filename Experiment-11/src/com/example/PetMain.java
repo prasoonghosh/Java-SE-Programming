@@ -31,11 +31,9 @@ public class PetMain {
         System.out.println("--------------");
         System.out.println();
 
-        p = new Cat();
-        p.setName("Mr. Whiskers");
-        p.play();
+        Pet f;
         Fish f = new Fish();
-        f.setName("Guppy");
+        f.setName("Rohu");
         f.eat();
         f.walk();
         f.play();
