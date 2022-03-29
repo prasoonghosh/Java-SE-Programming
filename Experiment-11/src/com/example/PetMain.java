@@ -31,7 +31,6 @@ public class PetMain {
         System.out.println("--------------");
         System.out.println();
 
-        Pet f;
         Fish f = new Fish();
         f.setName("Rohu");
         f.eat();

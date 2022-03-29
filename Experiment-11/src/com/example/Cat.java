@@ -29,4 +29,9 @@ public class Cat extends Animal implements Pet{
     public void play() {
 
     }
+
+    @Override
+    public void setName(String s) {
+
+    }
 }

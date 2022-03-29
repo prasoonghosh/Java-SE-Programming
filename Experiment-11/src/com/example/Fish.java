@@ -20,6 +20,12 @@ public class Fish extends Animal implements Pet {
     @Override
     public void play() {
     }
+
+    @Override
+    public void setName(String s) {
+
+    }
+
     @Override
     public void eat(){
 
